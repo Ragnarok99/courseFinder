@@ -1,0 +1,9 @@
+.countResultsText {
+  color: rgb(160, 160, 161);
+  margin-bottom: 30px;
+}
+
+.numberCourses {
+  color: rgb(58, 186, 138) !important;
+  font-weight: bold;
+}

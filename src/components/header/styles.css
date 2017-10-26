@@ -1,0 +1,52 @@
+.btnTrial {
+  margin: 7px 0 0 15px;
+  background-color: rgb(16, 134, 184);
+  box-shadow: inset 0 -2px 0 rgba(0, 0, 0, .15);
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.firstNav {
+  margin-bottom: 0px;
+  border-radius: 0;
+  background-color: rgb(85, 85, 85);
+  border: none;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.separator {
+  padding: 15px 0;
+  color: #9d9d9d;
+}
+
+.secondNav {
+  border-radius: 0;
+  height: 60px;
+  font-weight: bold;
+}
+
+.brandLogo {
+  height: 46px;
+  margin-top: -11px;
+}
+
+.supportCenterText {
+  color: white !important;
+}
+
+.loginText {
+  color: rgb(58, 186, 138) !important;
+}
+
+@media only screen and (max-width: 991px) {
+  .optionsFirstNav,
+  .optionsSecondNav {
+    display: none;
+  }
+  .btnToggle {
+    display: inherit;
+  }
+}

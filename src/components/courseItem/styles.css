@@ -1,0 +1,43 @@
+.divContent {
+  background-color: white;
+  margin-bottom: 20px;
+  width: 100%;
+  padding: 15px;
+  color: #777;
+}
+
+.priceCourse {
+  background-color: rgb(58, 186, 146);
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+}
+
+.cardTitle {
+  font-weight: bold;
+  min-height: 50px;
+  margin-bottom: 16px;
+  text-transform: uppercase;
+}
+
+.subTitle {
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  color: rgb(168, 178, 177);
+  font-size: 13px;
+}
+
+.hr {
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+@media only screen and (max-width: 1190px) {
+  .cardTitle {
+    font-size: 12px;
+  }
+  .subTitle {
+    font-size: 11px;
+  }
+}

@@ -1,0 +1,17 @@
+.wrapperSearch {
+  background-image: url('https://targetcareers.co.uk/sites/targetcareers.co.uk/files/public/field/image/How-to-choose-the-right-university-and-course-for-you.jpg');
+  background-size: cover;
+  box-shadow: inset 1200px 1053px 1061px 2199px rgba(58, 58, 70, 0.55);
+  min-height: 290px;
+  text-align: center;
+  color: white;
+}
+
+.formContainer {
+  margin: 30px auto;
+  max-width: 500px;
+}
+
+.titleSearch {
+  margin-top: 60px;
+}

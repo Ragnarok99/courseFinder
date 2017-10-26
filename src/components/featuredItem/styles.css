@@ -1,0 +1,39 @@
+.wrapper {
+  display: flex;
+  background-color: white;
+  margin-bottom: 20px;
+}
+
+.divImg>img {
+  width: 460px;
+}
+
+.divContent {
+  padding: 15px;
+  width: 100%;
+  color: #777;
+}
+
+.priceCourse {
+  background-color: rgb(58, 186, 146);
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+}
+
+.cardTitle {
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.subTitle {
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  color: rgb(168, 178, 177)
+}
+
+.hr {
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
