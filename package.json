@@ -1,7 +1,7 @@
 {
-  "name": "reactcategoriesform",
+  "name": "coursefinder",
   "version": "1.0.0",
-  "description": "form categories",
+  "description": "course finder page",
   "main": "index.js",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
