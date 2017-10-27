@@ -9,4 +9,5 @@ For getting started with this repo.
 > cd courseFinder
 > npm install
 > npm start
+> open localhost:8080
 ```
