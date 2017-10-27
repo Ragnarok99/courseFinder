@@ -72,9 +72,7 @@ class App extends Component {
     });
 
     const courses = await api.courses.getList(inputValue);
-    console.log(inputValue);
-    console.log(courses);
-
+    
     this.setState({
       courses,
       loading: false

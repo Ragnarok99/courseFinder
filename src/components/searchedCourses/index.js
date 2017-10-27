@@ -25,7 +25,7 @@ const ResultsSearch = ({ courses, loading }) => {
 };
 
 ResultsSearch.propTypes = {
-  courses: PropTypes.array,
+  courses: PropTypes.object,
   loading: PropTypes.bool
 };
 
